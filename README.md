@@ -1,1 +1,1 @@
-# Portfolio
+It includes fundamental features such as project displays, personal introductions, and contact forms, offering an opportunity to practice Django skills while showcasing early achievements in the realm of web development.
